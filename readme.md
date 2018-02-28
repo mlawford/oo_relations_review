@@ -1,12 +1,13 @@
 #Sled(name)
-- All sleds
-- All dogs ***
-- All dogs that belong to particular sleds
-- Add dog to sled
+  We should be able to...
+  - Return all Sleds
+  - Return all Dogs that belong to Sleds
+  - All dogs that belong to a particular Sled
+  - Add a Dog to a Sled
 
 #Dogs(name, breed)
-- All dogs
-- Sled that owns the dog
-- Find by name
-- Find all dogs by specific breed
-- Can have dogs that dont have sleds
+  We should be able to...
+  - Return all Dogs
+  - Return the Sled that owns a specific Dog
+  - Find a Dog by name
+  - Find all Dogs by specific breed
